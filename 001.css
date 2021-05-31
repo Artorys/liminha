@@ -1,0 +1,121 @@
+body
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font: 100;
+    color: rgb(255, 0, 0);
+    text-align: center;
+    background-color: rgb(11, 11, 48);
+    ;
+
+    
+}
+figure
+{
+    border-radius: 50px;
+    height: 333px;
+    text-align: center;
+    color: brown;
+}
+footer
+{
+    font-size: 100px;
+    text-align: center;
+
+}
+h2
+{
+    text-transform: capitalize;
+    text-align:center;
+    color: brown;
+    font-style: oblique;
+    font-size: 100;
+
+}
+hr
+{
+   padding: 15px;
+   color: brown;
+   background-color: rgb(255, 0, 0); 
+}
+.liminha 
+{
+    width: 200px;
+    transform: scale(2);
+    position: absolute;
+    right: 100px; /* posiciona a 90px para a esquerda */ 
+	top: 400px; /* posiciona a 70px para baixo */ 
+
+    
+}
+.liminha1
+{
+    width: 200px;
+    transform: scale(2);
+    position: absolute;
+	left: 110px; /* posiciona a 90px para a esquerda */ 
+	top: 400px; /* posiciona a 70px para baixo */
+    
+}
+.limas
+{
+    font-size: 80px;
+    font-style: oblique;
+    position: relative;
+}
+.liminha
+{
+    background-repeat: no-repeat;
+}
+.brother
+{
+  background-repeat: no-repeat;
+  background-position: top;
+  background-position-y: 750px;
+  background-size: 900px;
+}
+footer
+{
+    color: rgb(0, 0, 0);
+    font-size: 100px;
+    font-weight: 100;
+}
+.texto
+{
+    font-size: 130px;
+    font-style: oblique;
+    font-weight: 100px;
+    color: chartreuse;
+    position: absolute;
+    top:  750px;
+    right: 180px
+}
+.lindinho
+{
+    color: rgb(4, 0, 255);
+    font-size: 90;
+}
+.lindinho1
+{
+    color: brown;
+    font-size: 150;
+}
+.video
+{
+    width: 450px;
+    height: 300px;
+}
+.liminha2
+{
+    width: 200px;
+    transform: scale(2);
+    position: absolute;
+	right: 500px; /* posiciona a 90px para a esquerda */ 
+	top: 130px; /* posiciona a 70px para baixo */
+}
+.patos
+{
+    width:600px ;
+    height: 500;
+    position:  absolute;
+    right: 400px;
+}
